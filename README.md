@@ -68,7 +68,7 @@ Puedes contactarme a través de los siguientes medios:
   <a href="https://github.com/LuisDavidaspr2003?tab=repositories">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/tu_perfil">
+  <a href="https://www.linkedin.com/in/luis-david-asprilla-mosquera-87b0ba23b">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
