@@ -62,13 +62,13 @@ Estas son algunas de las tecnologías con las que trabajo:
 Puedes contactarme a través de los siguientes medios:
 
 <p align="center">
-  <a href="mailto:tu_email@example.com">
+  <a href="luisdavidasprilla24@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/tu_usuario">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="www.linkedin.com/in/luis-david-asprilla-mosquera-87b0ba23b">
+  <a href="luisdavidasprilla24@gmail.com">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
