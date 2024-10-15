@@ -65,7 +65,9 @@ Puedes contactarme a través de los siguientes medios:
   <a href="mailto:luis.asprilla@est.iudigital.edu.co">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <span>luis.asprilla@est.iudigital.edu.co</span>
+  <a href="mailto:luis.asprilla@est.iudigital.edu.co" style="text-decoration:none; font-size:16px; color:#EA4335; margin-left:10px;">
+    luis.asprilla@est.iudigital.edu.co
+  </a>
 </p>
 
 <p align="center">
