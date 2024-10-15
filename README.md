@@ -1,4 +1,4 @@
-# 💼 Portafolio Profesional
+# 💼 Portafolio Profesional TECNOLOGO EN DESARROLLO DE SOFTWARE
 
 ¡Bienvenido a mi portafolio profesional! Me caracterizo por ser una persona **responsable**, **puntual** y con una actitud sumamente **positiva y proactiva**. Mi principal objetivo es seguir desarrollándome tanto a nivel **profesional** como **personal**, enfrentando nuevos desafíos de manera **eficiente** y **creativa**.
 
