@@ -62,7 +62,7 @@ Estas son algunas de las tecnologías con las que trabajo:
 Puedes contactarme a través de los siguientes medios:
 
 <p align="center">
-  <a href="mailto:luis.asprilla@est.iudigital.edu.co">
+  <a href="luis.asprilla@est.iudigital.edu.co">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/LuisDavidaspr2003?tab=repositories">
