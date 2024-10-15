@@ -61,27 +61,31 @@ Estas son algunas de las tecnologías con las que trabajo:
 
 Puedes contactarme a través de los siguientes medios:
 
-<p align="center">
+<div align="center">
+  
+  <!-- Icono y Correo -->
   <a href="mailto:luis.asprilla@est.iudigital.edu.co">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="mailto:luis.asprilla@est.iudigital.edu.co" style="text-decoration:none; font-size:16px; color:#EA4335; margin-left:10px;">
-    luis.asprilla@est.iudigital.edu.co
-  </a>
-</p>
+  <span style="margin-left: 10px; font-size: 16px;">
+    <a href="mailto:luis.asprilla@est.iudigital.edu.co" style="text-decoration: none; color: #EA4335;">luis.asprilla@est.iudigital.edu.co</a>
+  </span>
 
-<p align="center">
+  <br><br>
+
+  <!-- Icono GitHub -->
   <a href="https://github.com/LuisDavidaspr2003?tab=repositories">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
 
-<p align="center">
+  <br><br>
+
+  <!-- Icono LinkedIn -->
   <a href="https://www.linkedin.com/in/luis-david-asprilla-mosquera-87b0ba23b">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
 
+</div>
 
 
 ---
