@@ -38,12 +38,12 @@ Estas son algunas de las tecnologías con las que trabajo:
 
 ## 🚀 Proyectos Destacados
 
-### 🌐 Proyecto 1: **Landing Page Moderna**
+### 🌐 Readful bibloteca 1: **Landing Page Moderna**
 - **Descripción**: Creación de una landing page utilizando **HTML5** y **CSS3** para un diseño moderno.
 - **Tecnologías**: HTML5, CSS3.
 - **[Ver Proyecto](https://github.com/tu_usuario/proyecto1)**
 
-![Proyecto 1](https://via.placeholder.com/600x400 "Landing Page Moderna")
+![Proyecto 1](https://github.com/LuisDavidaspr2003/Pagina_Estatica_Resposive.git"Landing Page Moderna")
 
 ---
 
