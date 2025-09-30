@@ -43,7 +43,11 @@ Estas son algunas de las tecnologías con las que trabajo:
 - **Tecnologías**: HTML5, CSS3.
 - **[Ver Proyecto](https://luisdavidaspr2003.github.io/Pagina_Estatica_Resposive/)**
 
-!<img width="571" height="307" alt="image" src="https://github.com/user-attachments/assets/9b34fc2b-e89b-4266-b30d-61b4902c5dc2" />
+<img width="1893" height="865" alt="image" src="https://github.com/user-attachments/assets/3f549977-ffa0-4c4e-bc03-21518a699651" />
+<img width="1774" height="863" alt="image" src="https://github.com/user-attachments/assets/a92bb46a-c9e5-4c5a-94de-898c67e3d44b" />
+<img width="1575" height="834" alt="image" src="https://github.com/user-attachments/assets/68782ed3-acba-4a75-ac6a-ebcc33bba92a" />
+
+
 https://github.com/LuisDavidaspr2003/Pagina_Estatica_Resposive.git ("Landing Page Moderna")
 
 ---
